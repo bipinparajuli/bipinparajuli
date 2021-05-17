@@ -26,6 +26,9 @@ Want to know more about me ? [Check my boaring Portfolio](https://www.bipinparaj
 
 - [Reason why love Javascript](https://bipinparajuli-96229.medium.com/five-reason-why-i-love-javascript-e2509b4d8fa4)
 
+- [Redux in easy way](https://bipinparajuli-96229.medium.com/redux-explain-in-easy-way-f8deb4053413)
+
+
 
 # 💼 Skills
 

@@ -1,18 +1,20 @@
 ![Bipin GitHub Banner](./Assets/my.jpg)]
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bipin-parajuli-6580a3190/)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@Bipin47267778)
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-information?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/bipinprjl/)
 
 
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://www.bipinparajuli.com.np/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 I am very passionate about new technologies 😇
 
 - 🔭 I'm currently working on something cool 🆒
-- 🌱 I'm currently learning React,NodeJs,React Native,Go 💻 
+- 🌱 I'm currently learning React,React Native,NodeJs 💻 
 - 💬 Ask me anything about Technical/Technologies
 - 📫 How to reach me: [@bipin parajuli](https://www.instagram.com/bipinprjl/)
 
@@ -64,6 +66,7 @@ Want to know more about me ? [Check my boaring Portfolio](https://www.bipinparaj
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bipinparajuli&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Bipin Parajuli GitHub Stats" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=bipinparajuli&color=green)
 
 
 

@@ -14,7 +14,7 @@
 I am very passionate about new technologies 😇
 
 - 🔭 I'm currently working on something cool 🆒
-- 🌱 I'm currently learning React,React Native,NodeJs 💻 
+- 🌱 I'm currently learning JavaScript and Python 💻 
 - 💬 Ask me anything about Technical/Technologies
 - 📫 How to reach me: [@bipin parajuli](https://www.instagram.com/bipinprjl/)
 

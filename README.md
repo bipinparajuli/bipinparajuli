@@ -76,9 +76,7 @@ Want to know more about me ? [Check my boaring Portfolio](https://www.bipinparaj
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/bipinparajuli">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinparajuli&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinparajuli&theme=dracula)](https://github.com/bipinparajuli/github-readme-stats)
 
 <a href="https://github.com/bipinparajuli">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bipinparajuli&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Bipin Parajuli GitHub Stats" />
